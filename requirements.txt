@@ -5,3 +5,6 @@ networkx>=3.4
 numpy<2.0
 matplotlib<=3.10.0
 pyvis==0.3.2
+rouge-score==0.1.2
+openai<=1.6
+sacrebleu==2.5.1
